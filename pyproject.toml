@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "projeto-turnover-colaboradores"
+version = "0.1.0"
+description = ""
+authors = ["Deyved Antonio <deyved.antonio@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[tool.poetry.group.doc.dependencies]
+mkdocstrings-python = "^1.12.2"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+pytest-cov = "^6.0.0"
+blue = "^0.9.1"
+isort = "^5.13.2"
+taskipy = "^1.14.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
