@@ -1,26 +1,21 @@
-### Adicione um título descritivo e badges
-# Como construir um readme atrativo
+# Quais políticas/fatores da empresa deveriam mudar de forma a minimizar o turnover?
+
 [![](https://img.shields.io/github/license/deyvedantonio/readme_atrativo)](https://github.com/DeyvedAntonio/readme_atrativo/blob/main/LICENSE)
 
 ## Sobre o projeto
-O objetivo do projeto é recriar um readme atrativo aos recrutadores. Seguindo as dicas de Thallita Castro(@devweb_study) nessa [publicação](https://www.linkedin.com/posts/thallyta-castro_como-escrever-o-readme-ugcPost-6904060017490612224-8P7k). E as sugestões de Nelio Alves no [vídeo](https://www.youtube.com/watch?v=jIa8R69pKh8)
+O Turnover (rotatividade de funcionários) é um grande problema para as empresas. Sempre que um funcionário deixa um determinado trabalho, a empresa perde dinheiro e tempo com novas entrevistas e treinamentos do novo funcionário. Isso sem falar da perda de produtividade do setor afetado por esse turnover. São muitas as questões que fazem um funcionário deixar a empresa, entre eles: Melhores oportunidades, clima organizacional ruim, chefes ruins, baixo equilíbrio entre vida pessoal e profissional, entre outros.
 
 
 ## Usar imagem para mostrar o visual do projeto
 <div align="left">
-<img src="https://user-images.githubusercontent.com/26858993/159814407-54748ee8-5f67-410f-b36f-a5909212f931.png" width="500px" />
+<img src="05_Documentacao/03_Referencias/employee-turnover-on-the-up1.jpg" width="500px" />
 </div>
 
 
 ## Tecnologias utilizadas
 
-### Subdivisão 1
-- tecnologia 1.1
-- tecnologia 1.2
-
-### Subdivisão 2
-- tecnologia 2.1
-- tecnologia 2.2
+- Excel
+- Estatística Descritiva
 
 ## Competências
 Informar quais competências.
@@ -30,11 +25,8 @@ Informar quais competências.
 ## Integrações
 quais bibliotecas foram utilizadas para integração.
 
-## Escopo da aplicação (opcional)
-Casos de usos, cadastros.
-
 ## Agradecimentos
-Muito obrigado, Thalita e Nelio, por vocês estarem presentes nessa caminhada.
+Muito obrigado.
 
 ## Autor
 Deyved Antonio
